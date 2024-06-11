@@ -10,7 +10,7 @@ File Name: TD_values_Lapland_July2018.csv <br/>
 File Format: CSV (Comma-Separated Values) <br/>
 Columns: <br/>
     - id: Unique identifier for each measurement point <br/>
-    - point_id: point name given during field measurements
+    - point_id: point name given during field measurements <br/>
     - site: 1 = Nierivuoma, 2 = Rommaeno, 3 = Balsaláhku <br/>
     - date: Date when the measurement was taken (format: YYYY-MM-DD) <br/>
     - lat: Latitude of the measurement location (decimal degrees) <br/>
