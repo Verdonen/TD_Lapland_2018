@@ -10,10 +10,11 @@ File Name: thaw_depth_measurements_July_2018.csv <br/>
 File Format: CSV (Comma-Separated Values) <br/>
 Columns: <br/>
     - id: Unique identifier for each measurement point <br/>
+    - point_id: point name given during field measurements
     - site: 1 = Nierivuoma, 2 = Rommaeno, 3 = Balsaláhku <br/>
     - date: Date when the measurement was taken (format: YYYY-MM-DD) <br/>
-    - latitude: Latitude of the measurement location (decimal degrees) <br/>
-    - longitude: Longitude of the measurement location (decimal degrees) <br/>
+    - lat: Latitude of the measurement location (decimal degrees) <br/>
+    - lon: Longitude of the measurement location (decimal degrees) <br/>
     - TD_cm: Measured thaw depth in centimeters <br/>
 
 ## Data Collection
