@@ -6,7 +6,7 @@ This dataset contains thaw depth measurement values collected during a field exp
 
 ## File Description
 
-File Name: thaw_depth_measurements_July_2018.csv <br/>
+File Name: TD_values_Lapland_July2018.csv <br/>
 File Format: CSV (Comma-Separated Values) <br/>
 Columns: <br/>
     - id: Unique identifier for each measurement point <br/>
