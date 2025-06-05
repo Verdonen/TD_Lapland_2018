@@ -33,7 +33,7 @@ Institution: Agricultural University of Iceland (previously: University of Easte
 
 If you use this dataset in your research, please cite it as follows:
 
-Verdonen, M., Villoslada, M., Kolari, T.H.M., Tahvanainen, T., Korpelainen, P., Tarolli P. & Kumpula, T. Spatial distribution of thaw depth in palsas estimated from optical Unoccupied Aerial Systems data. (Manuscript in review for publication)
+Verdonen, M., Villoslada, M., Kolari, T.H.M., Tahvanainen, T., Korpelainen, P., Tarolli, P. & T. Kumpula (2025) Spatial Distribution of Thaw Depth in Palsas Estimated From Optical Unoccupied Aerial Systems Data. Permafrost and Periglacial Processes, 36: 22–36, https://doi.org/10.1002/ppp.2252 
 
 ## License
 
