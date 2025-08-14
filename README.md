@@ -19,7 +19,7 @@ Columns: <br/>
 
 ## Data Collection
 
-Thaw depth measurements were conducted using a steel rod inserted into the ground until frozen ground was encountered.
+Thaw depth measurements were conducted using a 1 m steel rod inserted into the ground until frozen ground was encountered.
 
 ## Contact Information
 
